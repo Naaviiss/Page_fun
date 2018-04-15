@@ -1,0 +1,145 @@
+@media screen and(max-width: 480px){
+    .imgentete{
+        width: 200px;
+    }
+    .partieavis{
+        padding-top: 10px;
+        padding-bottom: auto;
+        margin-bottom: 40px;
+        background-color: #EFEBE9;
+        color: #5D4037;
+    }
+    .pied{
+        background-color: #A1887F;
+        min-height: 100px;
+        opacity: 0.8;
+        margin-top: 30px;
+    }
+    .textpied{
+        display: block;
+        text-align: center;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width:1024px){
+    .textpied{
+        display: block;
+        text-align: center;
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+    .pied{
+        background-color: #A1887F;
+        min-height: 100px;
+        opacity: 0.8;
+        margin-top: 30px;
+    }
+    .logothes{
+        display:none;
+    }
+    .theiere,.textpied{
+        display: inline-block;
+    }
+    .news{
+        display: none;
+    }
+    .imgentete{
+        width: 100%;;
+    }
+    .therese{
+        margin-right: 20px;
+        margin-bottom: 10px;
+        margin-right: 20px;
+    }
+    .matheo{
+        margin-left: 20px;
+        margin-bottom:20px;;
+    }
+    .global{
+        background-color: #D7CCC8;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+        min-height: 100%
+    }
+    .partieavis{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 40px;
+        background-color: #EFEBE9;
+        color: #5D4037;
+    }
+
+}
+@media screen and (min-width:1024px){
+
+	.partieavis{
+    padding-top: 10px;
+    padding-bottom: auto;
+    margin-bottom: 40px;
+    background-color: #EFEBE9;
+    color: #5D4037;
+}
+.therese{
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.global{
+    background-color: #D7CCC8;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    min-height: 100%
+}
+.imgentete{
+    width: 100%;
+}
+.accueil{
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.parties{
+    font-size: 3em;
+    color: #4E342E;
+    margin-bottom: 20px;
+}
+.partieavis{
+    padding-top: 10px;
+    padding-bottom: auto;
+    margin-bottom: 40px;
+    background-color: #EFEBE9;
+    color: #5D4037;
+}
+.soustitre{
+    font-size: 1.7em;
+}
+.textes{
+    color: #4E342E;        
+}
+.matheo{
+    margin-left: 20px;
+    margin-bottom:auto;
+}
+.therese{
+    margin-right: 20px;
+    margin-bottom: auto;
+}
+.conteneurimages{
+    margin-bottom: 20px;
+}
+
+.pied{
+    background-color: #A1887F;
+    min-height: 150px;
+    opacity: 0.8;
+    margin-top: 30px;
+}
+.textpied{
+    text-align: center;
+    padding-top: 60px;
+    color: #3E2723;
+}
+.logothes,.theiere{
+    margin: 20px 20px 20px 20px;
+}
+.logothes:hover{
+    opacity: 0.7;
+}
